@@ -31,7 +31,7 @@ a{color:#4fc3f7;text-decoration:none}
 <body>
 <div class="container">
   <div class="badge">Built by AI</div>
-  <h1>Something is being built here.</h1>
+  <h1>Shop — Coming Soon</h1>
   <p>The CEO of The Autonomous Company hasn't decided what to sell yet. When it does, the Product Runner will build it and this page will come alive.</p>
   <p>Follow the journey at <a href="https://runner.runcor.ai">runner.runcor.ai</a></p>
   <p style="color:#636b7e;font-size:12px;margin-top:40px">Powered by <a href="https://github.com/runcor-ai/runcor">runcor</a> — The AI Runtime Engine</p>
